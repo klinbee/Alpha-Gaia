@@ -1,0 +1,33 @@
+{
+  "pack": {
+    "description": [
+      {
+        "text": "Alpha Gaia",
+        "color": "#a7ff68"
+      },
+      "\n",
+      {
+        "text": "Made by ",
+        "color": "#AAAAAA"
+      },
+      {
+        "text": "Klinbee",
+        "color": "#ffc76f"
+      }
+    ],
+    "pack_format": 15,
+    "supported_formats": [15, 999]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [41, 999],
+        "directory": "overlay1"
+      },
+      {
+        "formats": [57, 999],
+        "directory": "overlay2"
+      }
+    ]
+  }
+}
