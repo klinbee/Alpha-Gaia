@@ -2,15 +2,32 @@
   "pack": {
     "description": [
       {
-        "text": "【東方】Bad Apple!! ＰＶ 【影絵】",
-        "color": "#ffffff"
+        "text": "Alpha Gaia Lang",
+        "color": "#a7ff68"
       },
       "\n",
       {
-        "text": "Terrain by Klinbee",
-        "color": "#ffffff"
+        "text": "Made by ",
+        "color": "#AAAAAA"
+      },
+      {
+        "text": "Klinbee",
+        "color": "#ffc76f"
       }
     ],
-    "pack_format": 48
+    "pack_format": 15,
+    "supported_formats": [15, 999]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [41, 999],
+        "directory": "overlay1"
+      },
+      {
+        "formats": [57, 999],
+        "directory": "overlay2"
+      }
+    ]
   }
 }
