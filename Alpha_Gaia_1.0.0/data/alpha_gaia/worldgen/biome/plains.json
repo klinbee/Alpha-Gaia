@@ -89,11 +89,7 @@
   },
   "spawn_costs": {},
   "carvers": {
-    "air": [
-      "alpha_gaia:cave",
-      "alpha_gaia:cave_extra_underground",
-      "alpha_gaia:canyon"
-    ]
+    "air": ["alpha_gaia:cave", "alpha_gaia:cave_extra_underground"]
   },
   "features": [
     [],
