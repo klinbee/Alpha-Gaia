@@ -50,7 +50,7 @@
   },
   "spawn_costs": {},
   "carvers": {
-    "air": "minecraft:nether_cave"
+    "air": "alpha_gaia:nether_cave"
   },
   "features": [
     [],
@@ -61,15 +61,15 @@
     [],
     [],
     [
-      "minecraft:spring_open",
-      "minecraft:patch_fire",
-      "minecraft:glowstone_extra",
-      "minecraft:glowstone",
-      "minecraft:brown_mushroom_nether",
-      "minecraft:red_mushroom_nether",
-      "minecraft:ore_gravel_nether"
+      "alpha_gaia:nether/spring_lava",
+      "alpha_gaia:nether/patch_fire",
+      "alpha_gaia:nether/glowstone_extra",
+      "alpha_gaia:nether/glowstone",
+      "alpha_gaia:nether/patch_mushroom_brown",
+      "alpha_gaia:nether/patch_mushroom_red",
+      "alpha_gaia:nether/ore_gravel"
     ],
     [],
-    ["minecraft:brown_mushroom_normal", "minecraft:red_mushroom_normal"]
+    []
   ]
 }

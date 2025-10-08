@@ -94,30 +94,30 @@
   "features": [
     [],
     [],
-    ["alpha_gaia:monster_room"],
+    ["alpha_gaia:overworld/monster_room"],
     [],
     [],
     [
-      "minecraft:ore_dirt",
-      "minecraft:ore_gravel",
-      "alpha_gaia:ore_clay",
-      "alpha_gaia:ore_coal",
-      "alpha_gaia:ore_iron",
-      "alpha_gaia:ore_gold",
-      "alpha_gaia:ore_redstone",
-      "alpha_gaia:ore_diamond"
+      "alpha_gaia:overworld/ore_dirt",
+      "alpha_gaia:overworld/ore_gravel",
+      "alpha_gaia:overworld/ore_clay",
+      "alpha_gaia:overworld/ore_coal",
+      "alpha_gaia:overworld/ore_iron",
+      "alpha_gaia:overworld/ore_gold",
+      "alpha_gaia:overworld/ore_redstone",
+      "alpha_gaia:overworld/ore_diamond"
     ],
     [],
-    ["minecraft:spring_water", "minecraft:spring_lava"],
+    ["alpha_gaia:overworld/spring_water", "alpha_gaia:overworld/spring_lava"],
     [
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "alpha_gaia:default_flowers",
-      "alpha_gaia:oak",
-      "alpha_gaia:patch_cactus",
-      "alpha_gaia:patch_pumpkin"
+      "alpha_gaia:overworld/patch_mushroom_brown",
+      "alpha_gaia:overworld/patch_mushroom_red",
+      "alpha_gaia:overworld/patch_sugar_cane",
+      "alpha_gaia:overworld/flowers",
+      "alpha_gaia:overworld/trees_oak_forest",
+      "alpha_gaia:overworld/patch_cactus",
+      "alpha_gaia:overworld/patch_pumpkin"
     ],
-    ["minecraft:freeze_top_layer"]
+    []
   ]
 }
